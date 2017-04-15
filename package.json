@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/BlakeRedwolf/Flashcard-Generator/issues"
   },
-  "homepage": "https://github.com/BlakeRedwolf/Flashcard-Generator#readme"
+  "homepage": "https://github.com/BlakeRedwolf/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {}
 }
